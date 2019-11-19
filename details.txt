@@ -1,0 +1,13 @@
+out_file1.txt
+out_file2.txt
+out_file3.txt
+							      <
+out_file4.txt
+  40 2 4 + 2 2 + - * 4 5 / 6 / -			      |	  invalid
+  3 2 + 13 + 4 /					      |	  invalid
+  43 2 19 * +						      |	  invalid
+  3 4 + 3 2 - * 2 2 / - 24 3 / +			      |	  invalid
+  3 5 6 * + 8 -						      |	  invalid
+  48 36 7 % + 2 -					      |	  invalid
+  0 1 2 3 4 5 6 7 8 9 + - + - + - + - +			      |	  invalid
+out_file5.txt
